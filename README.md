@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yousaf
-- 👀 I’m interested in machine learning especially in computer vision and natural language processing
-- 🌱 I’m currently learning how nlp and computer vision could be used for documents processing & understanding
-- 💞️ I’m looking to collaborate on document AI 
+- 👀 I’m interested in LLM especially in natural language processing
+- 🌱 I’m working on LLM to process Speech & un-structured data 
+- 💞️ I’m looking to collaborate on cognative analayis & search on structured & unstructured data
 - 📫 How to reach me email me at yousaf1951@gmail.com
 
 <!---
